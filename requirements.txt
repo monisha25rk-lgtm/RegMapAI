@@ -1,0 +1,8 @@
+flask
+flask-cors
+mysql-connector-python
+python-dotenv
+pymupdf
+spacy
+sentence-transformers
+gunicorn
